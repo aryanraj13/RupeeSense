@@ -398,6 +398,6 @@ C:/Users/ASUS/Desktop/Workspace/firstGUI/mainwindow.h
  mdp:C:/Qt-framework/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
  mdp:C:/Users/ASUS/Desktop/Workspace/firstGUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/firstGUI_autogen/moc_predefs.h
  mdp:C:/Users/ASUS/Desktop/Workspace/firstGUI/mainwindow.h
-C:/Users/ASUS/Desktop/Workspace/firstGUI/main.cpp
 C:/Users/ASUS/Desktop/Workspace/firstGUI/mainwindow.cpp
  uic:./ui_mainwindow.h
+C:/Users/ASUS/Desktop/Workspace/firstGUI/main.cpp
