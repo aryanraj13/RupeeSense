@@ -41,12 +41,8 @@ Once the application is set up, you can start using RupeeSense by following thes
 
 RupeeSense is built using the following technologies:
 
-- **Frontend:** React, Redux, Material-UI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Data Visualization:** Chart.js
-- **Deployment:** Heroku, AWS, etc.
+- **Frontend:** Qt Framework
+- **Backend:** C++
 
 ## Contributing
 
@@ -56,15 +52,5 @@ Contributions to RupeeSense are welcome! If you'd like to contribute, please fol
 2. Implement your changes and ensure that they are well-documented and tested.
 3. Submit a pull request detailing your changes and any relevant information.
 
-## License
 
-RupeeSense is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the software as per the terms of the license.
 
-## Acknowledgements
-
-We would like to thank the following individuals and projects for their contributions to RupeeSense:
-
-- [Name] - Contribution details
-- [Project Name] - Inspiration or code snippets
-
-For any inquiries or support requests, please contact [email@example.com].
